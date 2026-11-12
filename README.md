@@ -40,3 +40,6 @@ SESSION_SECRET=a-long-random-secret
 - `npm run dev` — development server
 - `npm run build` — production build
 - `npm start` — run production server
+=======
+# xpert-mind
+>>>>>>> 5f169d060d84435fd0900f8a0b3091b40f875f2a
